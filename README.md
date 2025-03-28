@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project is a test case implementation using PHPUnit to validate the discount calculation and total price calculation for a shopping basket.
 
+Application used only on the docker env.
+
 ## 🛠 Requirements
 - **PHP 8.1+**
 - **Composer**
@@ -12,7 +14,7 @@ This project is a test case implementation using PHPUnit to validate the discoun
 ## 🚀 Installation
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-repo/test-case-project.git
+   git clone https://github.com/muthukumaritaly/acme
    cd test-case-project
    ```
 
